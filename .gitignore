@@ -1,0 +1,11 @@
+*~
+*.swp
+*.idea
+
+.DS_Store
+.localize
+
+node_modules
+typings
+app/*.js
+app/*.js.map
